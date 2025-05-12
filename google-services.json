@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040698376116",
+    "project_id": "sunshine-meri-luke",
+    "storage_bucket": "sunshine-meri-luke.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040698376116:android:0b91b43c75f43e0178bce1",
+        "android_client_info": {
+          "package_name": "et.tera.compound_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO5fvZ4WKVtnGE_GtXAuKpT-HqkiQvV4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
